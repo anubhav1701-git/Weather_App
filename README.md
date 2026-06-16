@@ -51,7 +51,7 @@ This project uses the OpenWeatherMap API.
 3. Replace the API key in `Weather.js`:
 
 ```javascript
-const apikey = "YOUR_API_KEY";
+const apikey = "e68b6e3ed2fdd8a21479e6a6d19a982d";
 ```
 
 ##  How It Works
